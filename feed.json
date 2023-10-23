@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ArchivesNum",
+    "description": "",
+    "home_page_url": "https://Raphix93.github.io/ArchiNum",
+    "feed_url": "https://Raphix93.github.io/ArchiNum/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Raphael"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Raphix93.github.io/ArchiNum/sitemap.xml
